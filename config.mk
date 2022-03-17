@@ -3,7 +3,7 @@ VERSION = 5.1
 
 # paths
 PREFIX = /usr
-MANPREFIX = $(PREFIX)/man
+MANPREFIX = $(PREFIX)/share/man
 
 X11INC = /usr/include/X11
 X11LIB = /usr/lib/X11
